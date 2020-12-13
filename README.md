@@ -2,6 +2,17 @@
 VISUALIZATION
 https://edcasan.github.io/Web-Design-Challenge/
 
+FOLDERS AND FILES
+- Resources contains a file cities.csv and a folder that contains the four screenshots with extension.png
+- WebVisualizations contains the HTML files
+- index.html
+- main.csv
+
+Thank you very much for your time and recommendations. 
+Regards
+---------------------------------------------------------
+
+
 
 Web Design Homework - Web Visualization Dashboard (Latitude)
 
