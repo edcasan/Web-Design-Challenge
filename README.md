@@ -8,10 +8,6 @@ FOLDERS AND FILES
 - index.html
 - main.csv
 
-Thank you very much for your time and recommendations. 
-Regards
----------------------------------------------------------
-
 
 
 Web Design Homework - Web Visualization Dashboard (Latitude)
