@@ -41,3 +41,7 @@ The grid must be two visualizations across on screens medium and larger, and 1 a
 . Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
 . Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
 
+![image](https://user-images.githubusercontent.com/63757160/109597637-b6e8c000-7add-11eb-894a-af705d1564db.png)
+
+
+
